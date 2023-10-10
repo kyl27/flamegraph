@@ -10,3 +10,4 @@ Inspired by https://github.com/brendangregg/FlameGraph
 - Linux `perf` can be found in most package repositories for linux distros
 - `perl`
 - Optional: enable kernal profiling `sudo sysctl kernel.perf_event_paranoid=-1`
+  and `sudo sysctl kernel.kptr_restrict=0`
