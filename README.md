@@ -3,7 +3,7 @@ Inspired by https://github.com/brendangregg/FlameGraph
 
 ## Usage
 ```
-./flamegraph.pl <pid>
+./flamegraph.sh <pid>
 ```
 
 ## Dependencies
